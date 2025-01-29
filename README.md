@@ -1,4 +1,4 @@
-<h1> Usre Auth Appp</h1>
+<h1> User Auth App</h1>
 
    <p>
         This Flutter application provides a seamless and secure authentication experience using 
