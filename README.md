@@ -23,7 +23,6 @@
         <li>✅ <strong>User Profile</strong> – Display user details and uploaded images.</li>
         <li>✅ <strong>Modern UI</strong> – Polished design with appropriate icons.</li>
     </ul>
-
 <img src="https://github.com/user-attachments/assets/d22b3bd7-409d-4f8a-9604-fa72a1ff1f82", width=21%,height=35%>
 <img src="https://github.com/user-attachments/assets/ac9e7042-dd81-48be-b9ec-402dafe0d576", width=21%,height=35%>
 <img src="https://github.com/user-attachments/assets/71b61fd3-a383-4215-9066-473d47a97927", width=21%,height=35%>
